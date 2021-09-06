@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## About this app Use this application to take notes! Express was used to create this app.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raevindunson/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raevindunson/note-taker/issues"
+  },
+  "homepage": "https://github.com/raevindunson/note-taker#readme"
 }
