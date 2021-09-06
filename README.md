@@ -1,5 +1,8 @@
 # Note Taker
 
+## About this app
 Use this application to take notes!
+Express was used to create this app.
 
-This project is still in the works! It was begun with given starter code
+### Assistance
+Received online help from https://github.com/kara-krzystan/note-taker
